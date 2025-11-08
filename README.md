@@ -1,5 +1,8 @@
 # Python-scripting-for-US-Bikeshare.
-  
+
+  ## US Bike Share
+
+![US Bike Share](US%20Bike%20share.JPG)
 
 ## Project Overview  
 In this project, I leveraged **Python** to analyze **Bikeshare system data** from three major U.S. cities — **Chicago, New York City, and Washington**.  
